@@ -11,5 +11,8 @@ public class Test
     s.add(c1);
     System.out.println("Les quantifiables :");
     Quantifiable quantifiables[] = {p1, c1, s};
+    for(Quantifiable quantifiable : quantifiables) {
+    	System.out.println(quantifiable);
+    }
   }
 }

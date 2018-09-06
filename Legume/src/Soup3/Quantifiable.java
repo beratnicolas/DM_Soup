@@ -1,5 +1,7 @@
 package Soup3;
 
+import java.util.ArrayList;
+
 public class Quantifiable {
 	public Soup soup;
 	public Carrot carrot;
