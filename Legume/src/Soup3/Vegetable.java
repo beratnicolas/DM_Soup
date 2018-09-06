@@ -1,6 +1,6 @@
 package Soup3;
 
-public class Vegetable
+public class Vegetable implements Quantifiable
 {
   public double poids;
   public int car;

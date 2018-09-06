@@ -2,7 +2,7 @@ package Soup3;
 
 import java.util.ArrayList;
 
-public class Soup
+public class Soup implements Quantifiable
 {
   ArrayList<Vegetable> legumes;
 
