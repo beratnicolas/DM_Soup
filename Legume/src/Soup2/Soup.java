@@ -40,7 +40,7 @@ public class Soup
   public String toString()
   {
 	    String s = "";
-	    s += "Soup" + System.lineSeparator();
+	    s += "Soupe" + System.lineSeparator();
 	    s += "------" + System.lineSeparator();
 	    for (Vegetable legume : legumes)
 	    {
