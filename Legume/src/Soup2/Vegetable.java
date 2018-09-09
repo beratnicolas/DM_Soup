@@ -3,7 +3,7 @@ package Soup2;
 public class Vegetable
 {
   public double poids;
-  public int car;
+  public int car; //longueur, yeux...
   public static double peelingWeight;
 
   public Vegetable(double p, int c)
